@@ -1,0 +1,54 @@
+h1 {
+    color: #ff69b4;
+    font-family: 'Pacifico', cursive;
+}
+
+h2 {
+    color: #ff1493; 
+    font-family: 'Quicksand', sans-serif;
+}
+h3 {
+    color: #555; /* abu gelap */
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+}
+
+button {
+    background-color: #ffb6c1;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    margin: 5px;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ff69b4;
+}
+button.shop {
+    background-color: #d8cfff; 
+    color: #685b64;
+}  
+
+.top-right-image {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 250px;
+    height: auto;
+}
+
+.right-image {
+    width: 180px;
+    top: 10px;
+    right: 10px;
+}
+
+.image-section img{
+    flex: 1;
+    min-width: 300px;
+    text-align: right;
+}
+
