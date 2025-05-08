@@ -8,3 +8,7 @@
 
 # Checkpoint 3
 ![image](https://github.com/user-attachments/assets/4c8e6792-64f6-459a-8384-c5adc9723d1a)
+
+#  Mini Project  
+![image](https://github.com/user-attachments/assets/ed6e7fef-a5b8-4fde-bfe5-c9ed695dab81)
+
